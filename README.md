@@ -2,7 +2,7 @@
 
 ### Hi there! 👋
 
-🧑‍🚀 Space Coder_ I'm passionate about creating engaging and interactive websites using HTML, CSS and JavaScript. ✨🚀
+🧑‍🚀 I'm passionate about creating engaging and interactive websites using HTML, CSS and JavaScript. ✨🚀
 
 **Languages and Tools:**
 
