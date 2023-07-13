@@ -1,4 +1,4 @@
-![Codenaud](assets/images/git-profile-bg-header.png)
+![Codenaud](assets/images/git-bg.png)
 
 ### Hi there! 👋
 
