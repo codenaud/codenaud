@@ -2,16 +2,51 @@
 
 ### Hi there! 👋
 
-🧑‍🚀 I'm passionate about creating engaging and interactive websites using HTML, CSS and JavaScript. ✨🚀
+🧑‍🚀 I'm passionate about creating engaging and interactive websites using HTML, CSS and JavaScript.
 
-**Languages and Tools:**
+<hr>
+
+### 💻 Dev Skills
+
+- Frontend Development using HTML, CSS, and JavaScript
+- Responsive Web Design for seamless user experiences across devices
+- Version Control with Git for efficient collaboration and code management
+- Command Line Proficiency for navigating and interacting with the development environment
+- Debugging and Troubleshooting to identify and fix issues in the code
+- Problem Solving and Critical Thinking to approach complex challenges
+- Continuous Learning to stay updated with the latest technologies and trends
+
+Badges:
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
- 
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Command%20Line-%2300ADD8.svg?style=for-the-badge&logo=gnu%20bash&logoColor=white" alt="Command Line"/>
 </div>
+
+<hr>
+
+### 💎 Design Skills
+
+- User Interface (UI) and User Experience (UX) Design
+- Responsive Design for adapting websites to different devices and screens
+- Pixel Perfect Designs to ensure visual accuracy and consistency
+- Design Tools: Figma, Adobe XD, Photoshop, Illustrator, and Sketch
+- Every project is an opportunity to create captivating and functional visual experiences! ✨🎨
+
+Badges:
+
+<div display="flex">
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobe%20xd&logoColor=white" alt="Adobe XD"/>
+  <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/>
+  <img src="https://img.shields.io/badge/Sketch-%23F7B500.svg?style=for-the-badge&logo=sketch&logoColor=white" alt="Sketch"/>
+</div>
+
+<hr>
 
 ### 🔭 Currently working on
 
@@ -19,7 +54,14 @@
 - Collaborating with open-source communities.
 - Exploring new frontend frameworks and libraries.
 
+<hr>
+
 ### 🌱 Learning
+
+- Currently enrolled in an advanced React and JavaScript course at Cifo de l'Hospitalet.
+- Actively pursuing supplementary studies in Vue with Wmedia.
+
+Badges:
 
 <div display="flex">
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
@@ -27,10 +69,14 @@
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 </div>
 
+<hr>
+
 ### 🤝 Looking to collaborate on
 
 - Open-source projects related to web development.
 - Exciting projects that challenge my skills and creativity.
+
+<hr>
 
 ### 📫 How to reach me
 
@@ -42,22 +88,8 @@ Let's connect and collaborate!
   </a>
 </div>
 
+<hr>
+
 ### ⚡ Fun fact
 
 I believe that coding is like solving puzzles. It's challenging, but incredibly rewarding when everything falls into place!
-
-<!--
-**your-profile/your-profile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Feel free to customize the content based on your specific details and preferences.
