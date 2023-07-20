@@ -1,12 +1,12 @@
 ![Codenaud](assets/images/git-bg.png)
 
-### Hi there! 👋
+## Hi there! 👋
 
 🧑‍🚀 I'm passionate about creating engaging and interactive websites using HTML, CSS and JavaScript.
 
 <hr>
 
-### 💻 Dev Skills
+## 💻 Dev Skills
 
 - Frontend Development using HTML, CSS, and JavaScript
 - Responsive Web Design for seamless user experiences across devices
@@ -28,7 +28,7 @@ Badges:
 
 <hr>
 
-### 💎 Design Skills
+## 💎 Design Skills
 
 - User Interface (UI) and User Experience (UX) Design
 - Responsive Design for adapting websites to different devices and screens
@@ -48,7 +48,19 @@ Badges:
 
 <hr>
 
-### 🔭 Currently working on
+## 🚀 Live Demos 
+
+Check out the live demos of the projects:
+
+- InstaPicsum [React && UUID Library]: [InstaPicsum Live Demo](https://codenaud.github.io/instapicsum/)
+- Quozzy [JavaScript && API]: [Quozzy Live Demo](https://codenaud.github.io/quozzy/)
+- Background color changer [JavaScript]: [ColorChanger Live Demo](https://codenaud.github.io/backgroundColorChanger/)
+
+Explore these projects online and see them in action! 🌟
+
+<hr>
+
+## 🔭 Currently working on
 
 - Personal projects to enhance my skills.
 - Collaborating with open-source communities.
@@ -56,7 +68,7 @@ Badges:
 
 <hr>
 
-### 🌱 Learning
+## 🌱 Learning
 
 - Currently enrolled in an advanced React and JavaScript course at Cifo de l'Hospitalet.
 - Actively pursuing supplementary studies in Vue with Wmedia.
@@ -67,18 +79,20 @@ Badges:
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  
 </div>
 
 <hr>
 
-### 🤝 Looking to collaborate on
+## 🤝 Looking to collaborate on
 
 - Open-source projects related to web development.
 - Exciting projects that challenge my skills and creativity.
 
 <hr>
 
-### 📫 How to reach me
+## 📫 How to reach me
 
 Let's connect and collaborate!
 
@@ -90,6 +104,6 @@ Let's connect and collaborate!
 
 <hr>
 
-### ⚡ Fun fact
+## ⚡ Fun fact
 
 I believe that coding is like solving puzzles. It's challenging, but incredibly rewarding when everything falls into place!
