@@ -55,6 +55,7 @@ Check out the live demos of the projects:
 - InstaPicsum [React && UUID Library]: [InstaPicsum Live Demo](https://codenaud.github.io/instapicsum/)
 - Quozzy [JavaScript && API]: [Quozzy Live Demo](https://codenaud.github.io/quozzy/)
 - Background color changer [JavaScript]: [ColorChanger Live Demo](https://codenaud.github.io/backgroundColorChanger/)
+- Digital Resume [HTML, CSS]: [English Digital Resume](https://codenaud.github.io/digital-resume/en/)
 
 Explore these projects online and see them in action! 🌟
 
