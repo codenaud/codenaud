@@ -2,7 +2,7 @@
 
 ## Hi there! 👋
 
-🧑‍🚀 I'm passionate about creating engaging and interactive websites using HTML, CSS and JavaScript.
+🧑‍🚀 I'm Allan Vázquez, passionate about creating attractive and interactive websites using HTML, CSS, JavaScript, React or Vue among others.
 
 <hr>
 
