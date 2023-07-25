@@ -52,6 +52,7 @@ Badges:
 
 Check out the live demos of the projects:
 
+- Quiz React App [React, Redux, MUI, React Router Dom]: [Quiz React App Live Demo](https://codenaud.github.io/quiz-react-app/)
 - InstaPicsum [React && UUID Library]: [InstaPicsum Live Demo](https://codenaud.github.io/instapicsum/)
 - Quozzy [JavaScript && API]: [Quozzy Live Demo](https://codenaud.github.io/quozzy/)
 - Background color changer [JavaScript]: [ColorChanger Live Demo](https://codenaud.github.io/backgroundColorChanger/)
