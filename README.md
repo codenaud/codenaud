@@ -53,10 +53,10 @@ Badges:
 Check out the live demos of the projects:
 
 - Quiz React App [React, Redux, MUI, React Router Dom]: [Quiz React App Live Demo](https://codenaud.github.io/quiz-react-app/)
-- InstaPicsum [React && UUID Library]: [InstaPicsum Live Demo](https://codenaud.github.io/instapicsum/)
+- Parallax scrolling 3D effect [HTML, CSS, JavaScript, wheel event]: [Parallax scrolling 3D effect Live Demo](https://parallax-scrolling-3d.netlify.app/)
 - Quozzy [JavaScript && API]: [Quozzy Live Demo](https://codenaud.github.io/quozzy/)
 - Background color changer [JavaScript]: [ColorChanger Live Demo](https://codenaud.github.io/backgroundColorChanger/)
-- Digital Resume [HTML, CSS]: [English Digital Resume](https://codenaud.github.io/digital-resume/en/)
+- Masking text on Image [HTML, CSS]: [Making text on Image Live Demo](https://codenaud.github.io/masking-text-on-image/)
 - Fifa Cards [HTML, CSS]: [Fifa Cards Live Demo](https://codenaud.github.io/fifa-cards/)
 
 Explore these projects online and see them in action! 🌟
