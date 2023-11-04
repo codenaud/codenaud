@@ -2,7 +2,7 @@
 
 ## Hi there! 👋
 
-🧑‍🚀 I'm Hallan, passionate about creating attractive and interactive websites using HTML, CSS, JavaScript, React or Vue among others.
+👨‍🚀 I'm Hallan, passionate about creating attractive and interactive websites using HTML, CSS, JavaScript, React or Vue among others.
 
 <hr>
 
